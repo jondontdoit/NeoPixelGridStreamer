@@ -1,6 +1,8 @@
 # NeoPixelGridStreamer
 Processing and Arduino files to allow video streaming over USB from a desktop to a microcontroller connected to a low-res grid of NeoPixels
 
+https://jhwarren.com/projects/NeoPixelGridPlayers/
+
 ## How to use
 You need a desktop/laptop with Processing installed, connected over USB to a microcontroller. This example leverages an Adafruit Feather M4.
 
